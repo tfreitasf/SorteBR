@@ -1,6 +1,8 @@
 # SorteBR - Gerador de Números Aleatórios para Loterias Brasileiras
 
 # Em Desenvolvimento.
+![Pré-visualização](https://github.com/tfreitasf/SorteBR/assets/83042767/4f4f459d-072b-4526-adac-b2dbae79ae42)
+
 
 **SorteBR** é um aplicativo Android simples projetado para gerar números aleatórios para loteria brasileira, incluindo Mega-Sena. Este aplicativo é desenvolvido como parte do curso Android Express do Professor Tiago Aguiar.
 
